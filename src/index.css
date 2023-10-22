@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  color: red;
+  margin-bottom: 3rem;
+}
+
+.badge{
+  width: 100%;
+}
+
+h5{
+  margin-top: 3rem;
+}
+
+.mycard{
+  margin-bottom: 2rem;
+}
+
+.card{
+  height: 100%;
+}
+
+.img{
+  width: auto;
+  height: 44%;
+}
